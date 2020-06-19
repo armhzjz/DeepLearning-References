@@ -1,6 +1,16 @@
 # DeepLearning-References
 This is just a place to save the deep learning references that I believe are valueable and helpful
+<br>
+<br>
 
+## Deep Learning 
+<br>
+<br>
+
+### Articles and other resources
+* [Deep Learning Book](http://www.deeplearningbook.org/)
+
+<br>
 
 ## Recurrent Neural Networks
 <br>
