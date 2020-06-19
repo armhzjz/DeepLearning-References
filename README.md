@@ -34,12 +34,12 @@ This is just a place to save the deep learning references that I believe are val
 
 | Paper 	| Authors 	| Application 	| Checked 	|
 |:-:	|:-:	|:-:	|-	|
-| Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling 	| Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, Yoshua Bengio 	| - 	|  	|
-| An Empirical Exploration of Recurrent Network Architectures 	| Rafal Jozefowicz,  Wojciech Zaremba, Ilya Sutskever 	| - 	|  	|
-| Visualizing and Understanding Recurrent Networks 	| Andrej Karpathy, Justin Johnson, Li Fei-Fei 	| - 	|  	|
-| LSTM: A Search Space Odyssey 	| Klaus Greff, Rupesh K. Srivastava, Jan Koutn ́ık, Bas R. Steunebrink, J ̈urgen Schmidhuber  	| - 	|  	|
-| An Empirical Exploration of Recurrent Network Architectures 	| Rafal Jozefowicz, Wojciech Zaremba, Ilya Sutskever 	| - 	|  	|
-| Massive Exploration of Neural Machine Translation Architectures 	| Denny Britz, Anna Goldie, Minh-Thang Luong, Quoc Le 	| - 	|  	|
+| [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) 	| Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, Yoshua Bengio 	| - 	|  	|
+| [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf) 	| Rafal Jozefowicz,  Wojciech Zaremba, Ilya Sutskever 	| - 	|  	|
+| [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078) 	| Andrej Karpathy, Justin Johnson, Li Fei-Fei 	| - 	|  	|
+| [LSTM: A Search Space Odyssey](https://arxiv.org/pdf/1503.04069.pdf) 	| Klaus Greff, Rupesh K. Srivastava, Jan Koutn ́ık, Bas R. Steunebrink, J ̈urgen Schmidhuber  	| - 	|  	|
+| [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf) 	| Rafal Jozefowicz, Wojciech Zaremba, Ilya Sutskever 	| - 	|  	|
+| [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906v2) 	| Denny Britz, Anna Goldie, Minh-Thang Luong, Quoc Le 	| - 	|  	|
 | [WAVENET: A GENERATIVEMODEL FORRAWAUDIO](https://arxiv.org/pdf/1609.03499.pdf) 	| Aäron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu 	| Deep generative model of raw audio waveforms 	|  	|
 
 <br>
