@@ -15,6 +15,7 @@ ___
 | An Empirical Exploration of Recurrent Network Architectures 	| Rafal Jozefowicz, Wojciech Zaremba, Ilya Sutskever 	| - 	|  	|
 | Massive Exploration of Neural Machine Translation Architectures 	| Denny Britz, Anna Goldie, Minh-Thang Luong, Quoc Le 	| - 	|  	|
 
+
 ### Example RNN Architectures
 
 | Application 	| Cell 	| Layers 	| Size 	| Vocabulary 	|  	| Learning Rate 	| Paper 	|
