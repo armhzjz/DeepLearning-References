@@ -3,12 +3,13 @@ This is just a place to save the deep learning references that I believe are val
 <br>
 <br>
 
-## Deep Learning 
+## CNNs - Image & Object detection
 <br>
 <br>
 
 ### Articles and other resources
 * [Deep Learning Book](http://www.deeplearningbook.org/)
+* [Review of Deep Learning Algorithms for Object Detection](https://medium.com/zylapp/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)
 
 <br>
 
@@ -45,3 +46,13 @@ This is just a place to save the deep learning references that I believe are val
 
 ### Articles and other resources
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+<br>
+<br>
+
+## Miscellaneous
+<br>
+<br>
+
+* [Loss functions](https://lossfunctions.tumblr.com/)
+* [Tuning the learning rate in Gradient Descent](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/)
