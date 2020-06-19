@@ -16,11 +16,15 @@ This is just a place to save the deep learning references that I believe are val
 <br>
 
 ### Articles and other resources
-* [Deep Learning Book](http://www.deeplearningbook.org/)
+* [Deep Learning Book](http://www.deeplearningbook.org/) :point_left:
 * [Review of Deep Learning Algorithms for Object Detection](https://medium.com/zylapp/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)
 * [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://cs.nyu.edu/~deigen/depth/)
 * [Capsule Networks](https://cezannec.github.io/Capsule_Networks/)
+* [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) :point_left:
+* [Optimizers Explained - Adam, Momentum and Stochastic Gradient Descent](https://mlfromscratch.com/optimizers-explained/#/) :point_left:
 
+<br>
 <br>
 
 ## Recurrent Neural Networks
@@ -61,11 +65,28 @@ This is just a place to save the deep learning references that I believe are val
 <br>
 <br>
 
+## Deep Reinforcement Learning
+<br>
+
+### Articles and other resource
+* [Deep Traffic](https://selfdrivingcars.mit.edu/deeptraffic/)
+* [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)
+* [SnakeAI](https://github.com/greerviau/SnakeAI)
+
+<br>
+<br>
+
 ## Miscellaneous
 <br>
 
 * [Loss functions](https://lossfunctions.tumblr.com/)
-* [Tuning the learning rate in Gradient Descent](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/)
+* [Tuning the learning rate in Gradient Descent](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/) :point_left:
 * [deepmind research papers](https://deepmind.com/research?filters=%7B%22tags%22:%5B%22Speech%22%5D%7D)
 * [Reading Barcodes on Hooves: How Deep Learning Is Helping Save Endangered Zebras](https://blogs.nvidia.com/blog/2016/11/04/saving-endangered-species/?adbsc=social_20170303_70517416)
 * [Tesla autopilot](https://www.tesla.com/autopilotAI)
+* [Attacking Machine Learning with Adversarial Examples](https://openai.com/blog/adversarial-example-research/)
+* [AI, Deep Learning, and Machine Learning: A Primer](https://www.youtube.com/watch?v=ht6fLrar91U&feature=youtu.be)
+* [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8) :point_left:
+* [Better Deep Learning - Train Faster, Reduce Overfitting, and Make Better Predictions](https://machinelearningmastery.com/better-deep-learning/#packages)
+* [How to attack a machine learning model?](https://www.kaggle.com/allunia/how-to-attack-a-machine-learning-model)
+* [Reading game frames in Python with OpenCV - Python Plays GTA V](https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/)
