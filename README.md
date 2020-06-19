@@ -10,12 +10,16 @@ This is just a place to save the deep learning references that I believe are val
 | Paper 	| Authors 	| Application 	| Checked 	|
 |:-:	|:-:	|:-:	|-	|
 | [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) 	| Leon A. Gatys, Alexander S. Ecker, Matthias Bethge 	| Style Transfer 	|  	|
+| [Depth Map Prediction from a Single Imageusing a Multi-Scale Deep Network](https://cs.nyu.edu/~deigen/depth/depth_nips14.pdf) 	| David Eigen, Christian Puhrsch, Rob Fergus 	| - 	|  	|
+| [Dynamic Routing Between Capsules](https://video.udacity-data.com/topher/2018/November/5bfdca4f_dynamic-routing/dynamic-routing.pdf) 	| Sara Sabour, Nicholas Frosst, Geoffrey E. Hinton 	| - 	|  	|
 
 <br>
 
 ### Articles and other resources
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * [Review of Deep Learning Algorithms for Object Detection](https://medium.com/zylapp/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)
+* [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://cs.nyu.edu/~deigen/depth/)
+* [Capsule Networks](https://cezannec.github.io/Capsule_Networks/)
 
 <br>
 
@@ -33,7 +37,6 @@ This is just a place to save the deep learning references that I believe are val
 | An Empirical Exploration of Recurrent Network Architectures 	| Rafal Jozefowicz, Wojciech Zaremba, Ilya Sutskever 	| - 	|  	|
 | Massive Exploration of Neural Machine Translation Architectures 	| Denny Britz, Anna Goldie, Minh-Thang Luong, Quoc Le 	| - 	|  	|
 | [WAVENET: A GENERATIVEMODEL FORRAWAUDIO](https://arxiv.org/pdf/1609.03499.pdf) 	| Aäron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu 	| Deep generative model of raw audio waveforms 	|  	|
-| [Depth Map Prediction from a Single Imageusing a Multi-Scale Deep Network](https://cs.nyu.edu/~deigen/depth/depth_nips14.pdf) 	| David Eigen, Christian Puhrsch, Rob Fergus 	| - 	|  	|
 
 <br>
 
@@ -54,7 +57,6 @@ This is just a place to save the deep learning references that I believe are val
 ### Articles and other resources
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [WaveNet: A generative model for raw audio](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
-* [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://cs.nyu.edu/~deigen/depth/)
 
 <br>
 <br>
@@ -66,3 +68,4 @@ This is just a place to save the deep learning references that I believe are val
 * [Tuning the learning rate in Gradient Descent](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/)
 * [deepmind research papers](https://deepmind.com/research?filters=%7B%22tags%22:%5B%22Speech%22%5D%7D)
 * [Reading Barcodes on Hooves: How Deep Learning Is Helping Save Endangered Zebras](https://blogs.nvidia.com/blog/2016/11/04/saving-endangered-species/?adbsc=social_20170303_70517416)
+* [Tesla autopilot](https://www.tesla.com/autopilotAI)
