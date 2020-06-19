@@ -6,6 +6,13 @@ This is just a place to save the deep learning references that I believe are val
 ## CNNs - Image & Object detection
 <br>
 
+### Papers
+| Paper 	| Authors 	| Application 	| Checked 	|
+|:-:	|:-:	|:-:	|-	|
+| [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) 	| Leon A. Gatys, Alexander S. Ecker, Matthias Bethge 	| Style Transfer 	|  	|
+
+<br>
+
 ### Articles and other resources
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * [Review of Deep Learning Algorithms for Object Detection](https://medium.com/zylapp/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)
@@ -25,6 +32,7 @@ This is just a place to save the deep learning references that I believe are val
 | LSTM: A Search Space Odyssey 	| Klaus Greff, Rupesh K. Srivastava, Jan Koutn ́ık, Bas R. Steunebrink, J ̈urgen Schmidhuber  	| - 	|  	|
 | An Empirical Exploration of Recurrent Network Architectures 	| Rafal Jozefowicz, Wojciech Zaremba, Ilya Sutskever 	| - 	|  	|
 | Massive Exploration of Neural Machine Translation Architectures 	| Denny Britz, Anna Goldie, Minh-Thang Luong, Quoc Le 	| - 	|  	|
+| [WAVENET: A GENERATIVEMODEL FORRAWAUDIO](https://arxiv.org/pdf/1609.03499.pdf) 	| Aäron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu 	| Deep generative model of raw audio waveforms 	|  	|
 
 <br>
 
@@ -44,6 +52,7 @@ This is just a place to save the deep learning references that I believe are val
 
 ### Articles and other resources
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [WaveNet: A generative model for raw audio](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
 
 <br>
 <br>
@@ -53,3 +62,4 @@ This is just a place to save the deep learning references that I believe are val
 
 * [Loss functions](https://lossfunctions.tumblr.com/)
 * [Tuning the learning rate in Gradient Descent](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/)
+* [deepmind research papers](https://deepmind.com/research?filters=%7B%22tags%22:%5B%22Speech%22%5D%7D)
