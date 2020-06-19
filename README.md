@@ -5,7 +5,6 @@ This is just a place to save the deep learning references that I believe are val
 
 ## CNNs - Image & Object detection
 <br>
-<br>
 
 ### Articles and other resources
 * [Deep Learning Book](http://www.deeplearningbook.org/)
@@ -14,7 +13,6 @@ This is just a place to save the deep learning references that I believe are val
 <br>
 
 ## Recurrent Neural Networks
-<br>
 <br>
 
 ### Papers
@@ -51,7 +49,6 @@ This is just a place to save the deep learning references that I believe are val
 <br>
 
 ## Miscellaneous
-<br>
 <br>
 
 * [Loss functions](https://lossfunctions.tumblr.com/)
