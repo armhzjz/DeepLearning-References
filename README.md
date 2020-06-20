@@ -13,6 +13,7 @@ This is just a place to save the deep learning references that I believe are val
 | [Depth Map Prediction from a Single Imageusing a Multi-Scale Deep Network](https://cs.nyu.edu/~deigen/depth/depth_nips14.pdf) 	| David Eigen, Christian Puhrsch, Rob Fergus 	| - 	|  	|
 | [Dynamic Routing Between Capsules](https://video.udacity-data.com/topher/2018/November/5bfdca4f_dynamic-routing/dynamic-routing.pdf) 	| Sara Sabour, Nicholas Frosst, Geoffrey E. Hinton 	| - 	|  	|
 | [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) 	| Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger 	| - 	| My own implementation of Densenet as a python module can be found [here](https://github.com/armhzjz/DenseNet).	|
+| [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533) 	| Yoshua Bengio 	| - 	| :point_left:	|
 
 <br>
 
