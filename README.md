@@ -3,7 +3,7 @@ This is just a place to save the deep learning references that I believe are val
 <br>
 <br>
 
-## CNNs - Image & Object detection
+## Neral Networks - the basics
 <br>
 
 ### Papers
@@ -11,6 +11,22 @@ This is just a place to save the deep learning references that I believe are val
 |:-:	|:-:	|:-:	|-	|
 | [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) 	| Yann LeCun 	|  	| :point_left: 	|
 | [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533) 	| Yoshua Bengio 	| - 	| :point_left:	|
+
+### Articles and other resources
+* [Deep Learning Book](http://www.deeplearningbook.org/) :point_left:
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) :point_left:
+* [Optimizers Explained - Adam, Momentum and Stochastic Gradient Descent](https://mlfromscratch.com/optimizers-explained/#/) :point_left:
+* [Tuning the learning rate in Gradient Descent](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/) :point_left:
+
+<br>
+<br>
+
+## CNNs - Image & Object detection
+<br>
+
+### Papers
+| Paper 	| Authors 	| Application 	| comment 	|
+|:-:	|:-:	|:-:	|-	|
 | [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) 	| Leon A. Gatys, Alexander S. Ecker, Matthias Bethge 	| Style Transfer 	|  	|
 | [Depth Map Prediction from a Single Imageusing a Multi-Scale Deep Network](https://cs.nyu.edu/~deigen/depth/depth_nips14.pdf) 	| David Eigen, Christian Puhrsch, Rob Fergus 	| - 	|  	|
 | [Dynamic Routing Between Capsules](https://video.udacity-data.com/topher/2018/November/5bfdca4f_dynamic-routing/dynamic-routing.pdf) 	| Sara Sabour, Nicholas Frosst, Geoffrey E. Hinton 	| - 	|  	|
@@ -19,13 +35,10 @@ This is just a place to save the deep learning references that I believe are val
 <br>
 
 ### Articles and other resources
-* [Deep Learning Book](http://www.deeplearningbook.org/) :point_left:
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) :point_left:
 * [Review of Deep Learning Algorithms for Object Detection](https://medium.com/zylapp/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)
 * [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://cs.nyu.edu/~deigen/depth/)
 * [Capsule Networks](https://cezannec.github.io/Capsule_Networks/)
 * [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
-* [Optimizers Explained - Adam, Momentum and Stochastic Gradient Descent](https://mlfromscratch.com/optimizers-explained/#/) :point_left:
 
 <br>
 <br>
@@ -83,7 +96,6 @@ This is just a place to save the deep learning references that I believe are val
 <br>
 
 * [Loss functions](https://lossfunctions.tumblr.com/)
-* [Tuning the learning rate in Gradient Descent](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/) :point_left:
 * [deepmind research papers](https://deepmind.com/research?filters=%7B%22tags%22:%5B%22Speech%22%5D%7D)
 * [Reading Barcodes on Hooves: How Deep Learning Is Helping Save Endangered Zebras](https://blogs.nvidia.com/blog/2016/11/04/saving-endangered-species/?adbsc=social_20170303_70517416)
 * [Tesla autopilot](https://www.tesla.com/autopilotAI)
