@@ -19,11 +19,11 @@ This is just a place to save the deep learning references that I believe are val
 
 ### Articles and other resources
 * [Deep Learning Book](http://www.deeplearningbook.org/) :point_left:
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) :point_left:
 * [Review of Deep Learning Algorithms for Object Detection](https://medium.com/zylapp/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)
 * [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://cs.nyu.edu/~deigen/depth/)
 * [Capsule Networks](https://cezannec.github.io/Capsule_Networks/)
 * [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) :point_left:
 * [Optimizers Explained - Adam, Momentum and Stochastic Gradient Descent](https://mlfromscratch.com/optimizers-explained/#/) :point_left:
 
 <br>
