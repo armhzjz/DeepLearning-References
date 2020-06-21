@@ -17,6 +17,7 @@ This is just a place to save the deep learning references that I believe are val
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) :point_left:
 * [Optimizers Explained - Adam, Momentum and Stochastic Gradient Descent](https://mlfromscratch.com/optimizers-explained/#/) :point_left:
 * [Tuning the learning rate in Gradient Descent](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/) :point_left:
+* [Softmax Regression](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/) :point_left:
 
 <br>
 <br>
