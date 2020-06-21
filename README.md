@@ -59,7 +59,8 @@ This is just a place to save the deep learning references that I believe are val
 | [WAVENET: A GENERATIVEMODEL FORRAWAUDIO](https://arxiv.org/pdf/1609.03499.pdf) 	| Aäron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu 	| Deep generative model of raw audio waveforms 	|  	|
 | [How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) 	| Siwei Lai, Kang Liu, Liheng Xu, Jun Zhao 	|  	|  	|
 | [Systematic evaluation of CNN advances on the ImageNet by](https://arxiv.org/abs/1606.02228) 	| Dmytro Mishkin, Nikolay Sergievskiy, Jiri Matas 	|  	| :point_left: 	|
-| [Efficient Estimation of Word Representations inVector Space](https://arxiv.org/abs/1301.3781) 	| Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean 	|  	|  	|
+| [Efficient Estimation of Word Representations inVector Space](https://arxiv.org/abs/1301.3781) 	| Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean 	|  	| :point_left: 	|
+| [Distributed Representations of Words and Phrasesand their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 	| Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean 	|  	| :point_left: 	|
 
 <br>
 
