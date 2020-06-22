@@ -13,6 +13,8 @@ This is just a place to save the deep learning references that I believe are val
 | [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533) 	| Yoshua Bengio 	| - 	| :point_left:	|
 | [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) 	| YSergey Ioffe, Christian Szegedy 	| - 	| :point_left:	|
 | [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf) 	| Xavier Glorot, Yoshua Bengio 	| - 	| :point_left:	|
+| [Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) 	| Laurens van der Maaten, Geoffrey Hinton 	| - 	| :point_left:	|
+| [Accelerating t-SNE using Tree-Based Algorithms](http://jmlr.org/papers/v15/vandermaaten14a.html) 	| Laurens van der Maaten 	| - 	| :point_left:	|
 
 ### Articles and other resources
 * [Deep Learning Book](http://www.deeplearningbook.org/) :point_left:
@@ -36,6 +38,7 @@ This is just a place to save the deep learning references that I believe are val
 | [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) 	| Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger 	| - 	| My own implementation of Densenet as a python module can be found [here](https://github.com/armhzjz/DenseNet).	|
 | [Gradient Based Learning Applied to Document Recognition](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf) 	| Yann LeCun, Léon Bottou, Yoshua Bengio, Patrick Haffner 	| - 	| 	|
 | [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792) 	| Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson 	| - 	| :point_left:	|
+| [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) 	| Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun 	| - 	| :point_left:	|
 
 <br>
 
