@@ -95,6 +95,7 @@ This is just a place to save the deep learning references that I believe are val
 * [Deep Traffic](https://selfdrivingcars.mit.edu/deeptraffic/)
 * [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)
 * [SnakeAI](https://github.com/greerviau/SnakeAI)
+* [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 
 <br>
 <br>
