@@ -66,11 +66,12 @@ This is just a place to save the deep learning references that I believe are val
 | [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf) 	| Rafal Jozefowicz, Wojciech Zaremba, Ilya Sutskever 	| - 	|  	|
 | [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906v2) 	| Denny Britz, Anna Goldie, Minh-Thang Luong, Quoc Le 	| - 	|  	|
 | [WAVENET: A GENERATIVEMODEL FORRAWAUDIO](https://arxiv.org/pdf/1609.03499.pdf) 	| Aäron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu 	| Deep generative model of raw audio waveforms 	|  	|
-| [How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) 	| Siwei Lai, Kang Liu, Liheng Xu, Jun Zhao 	|  	|  	|
-| [Systematic evaluation of CNN advances on the ImageNet by](https://arxiv.org/abs/1606.02228) 	| Dmytro Mishkin, Nikolay Sergievskiy, Jiri Matas 	|  	| :point_left: 	|
-| [Efficient Estimation of Word Representations inVector Space](https://arxiv.org/abs/1301.3781) 	| Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean 	|  	| :point_left: 	|
-| [Distributed Representations of Words and Phrasesand their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 	| Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean 	|  	| :point_left: 	|
-| [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) 	| Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio 	|  	|  	|
+| [How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) 	| Siwei Lai, Kang Liu, Liheng Xu, Jun Zhao 	| -	|  	|
+| [Systematic evaluation of CNN advances on the ImageNet by](https://arxiv.org/abs/1606.02228) 	| Dmytro Mishkin, Nikolay Sergievskiy, Jiri Matas 	| -	| :point_left: 	|
+| [Efficient Estimation of Word Representations inVector Space](https://arxiv.org/abs/1301.3781) 	| Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean 	| -	| :point_left: 	|
+| [Distributed Representations of Words and Phrasesand their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 	| Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean 	| -	| :point_left: 	|
+| [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) 	| Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio 	| -	|  	|
+| [Learning Phrase Representations using RNN Encoder–Decoderfor Statistical Machine Translation](https://arxiv.org/pdf/1406.1078v3.pdf) 	| Kyunghyun Cho, Bart van Merri ̈enboe, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio 	| -	|  	|
 
 <br>
 
