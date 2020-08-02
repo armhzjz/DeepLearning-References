@@ -72,6 +72,7 @@ This is just a place to save the deep learning references that I believe are val
 | [Distributed Representations of Words and Phrasesand their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 	| Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean 	| -	| :point_left: 	|
 | [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) 	| Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio 	| -	|  	|
 | [Learning Phrase Representations using RNN Encoder–Decoderfor Statistical Machine Translation](https://arxiv.org/pdf/1406.1078v3.pdf) 	| Kyunghyun Cho, Bart van Merri ̈enboe, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio 	| -	|  	|
+| [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025) 	| Minh-Thang Luong, Hieu Pham, Christopher D. Manning 	| -	|  	|
 
 <br>
 
