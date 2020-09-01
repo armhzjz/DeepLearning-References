@@ -17,6 +17,7 @@ This is just a place to save the deep learning references that I believe are val
 | [Accelerating t-SNE using Tree-Based Algorithms](http://jmlr.org/papers/v15/vandermaaten14a.html) 	| Laurens van der Maaten 	| - 	| :point_left:	|
 
 ### Articles and other resources
+* [Tradeoff batch size vs. number of iterations to train a neural network](https://stats.stackexchange.com/questions/164876/tradeoff-batch-size-vs-number-of-iterations-to-train-a-neural-network)
 * [Deep Learning Book](http://www.deeplearningbook.org/) :point_left:
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) :point_left:
 * [Optimizers Explained - Adam, Momentum and Stochastic Gradient Descent](https://mlfromscratch.com/optimizers-explained/#/) :point_left:
