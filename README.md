@@ -92,6 +92,7 @@ This is just a place to save the deep learning references that I believe are val
 
 ### Articles and other resources
 * [Preprocessing text before use RNN](https://datascience.stackexchange.com/questions/11402/preprocessing-text-before-use-rnn) :point_left:
+* [Sentiment Analysis - A _very good_ tutorial!](https://github.com/jadianes/data-science-your-way/tree/master/04-sentiment-analysis) :point_left:
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [WaveNet: A generative model for raw audio](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
 * [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) :point_left:
