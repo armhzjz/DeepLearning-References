@@ -91,6 +91,7 @@ This is just a place to save the deep learning references that I believe are val
 <br>
 
 ### Articles and other resources
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) :point_left:
 * [Preprocessing text before use RNN](https://datascience.stackexchange.com/questions/11402/preprocessing-text-before-use-rnn) :point_left:
 * [Sentiment Analysis - A _very good_ tutorial!](https://github.com/jadianes/data-science-your-way/tree/master/04-sentiment-analysis) :point_left:
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
