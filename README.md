@@ -105,6 +105,18 @@ This is just a place to save the deep learning references that I believe are val
 <br>
 <br>
 
+## Generative Adversarial Networks
+<br>
+
+### Papers
+
+| Paper 	| Authors 	| Application 	| comment 	|
+|:-:	|:-:	|:-:	|-	|
+| [UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1511.06434.pdf) 	| Alec Radford, Luke Metz 	| - 	| :point_left: 	|
+
+<br>
+<br>
+
 ## Deep Reinforcement Learning
 <br>
 
