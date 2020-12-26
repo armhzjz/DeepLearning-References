@@ -112,6 +112,7 @@ This is just a place to save the deep learning references that I believe are val
 
 | Paper 	| Authors 	| Application 	| comment 	|
 |:-:	|:-:	|:-:	|-	|
+| [Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf) | Ian J. Goodfellow,  Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio | - 	| :point_left: 	|
 | [UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1511.06434.pdf) | Alec Radford, Luke Metz | - 	| :point_left: 	|
 | [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf) | Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen | - 	| :point_left: 	|
 | [Fine-Grained Car Detection for Visual Census Estimation](https://arxiv.org/pdf/1709.02480.pdf) | Tim Gebru, Jonathan Krause, Yilun Wang, Duyun Chen, Jia Deng, Li Fei Fei | - 	| 	|
