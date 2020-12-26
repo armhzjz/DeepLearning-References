@@ -125,6 +125,8 @@ This is just a place to save the deep learning references that I believe are val
 ### Articles and other resource
  * [Improved GAN (Semi-supervised GAN)](https://github.com/Sleepychord/ImprovedGAN-pytorch)
  * [Semi-Supervised Learning](https://www.youtube.com/watch?v=_LRpHPxZaX0&feature=emb_logo) :point_left:
+ * [Attacking Machine Learning with Adversarial Examples](https://openai.com/blog/adversarial-example-research/)
+ * [iGAN: Interactive Image Generation via Generative Adversarial Networks](https://github.com/junyanz/iGAN/blob/master/README.md)
  
 <br>
 <br>
