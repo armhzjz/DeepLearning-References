@@ -117,6 +117,8 @@ This is just a place to save the deep learning references that I believe are val
 | [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf) | Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen | - 	| :point_left: 	|
 | [Fine-Grained Car Detection for Visual Census Estimation](https://arxiv.org/pdf/1709.02480.pdf) | Tim Gebru, Jonathan Krause, Yilun Wang, Duyun Chen, Jia Deng, Li Fei Fei | - 	| 	|
 | [CycleGAN Face-off](https://arxiv.org/pdf/1712.03451.pdf) | Xiaohan Jin, Ye Qi Shangxuan Wu | - 	| :point_left:	|
+| [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf) | Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros | - 	| :point_left:	|
+| [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf) | Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro | - 	| 	|
 
 <br>
 
