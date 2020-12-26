@@ -117,6 +117,10 @@ This is just a place to save the deep learning references that I believe are val
 | [Fine-Grained Car Detection for Visual Census Estimation](https://arxiv.org/pdf/1709.02480.pdf) | Tim Gebru, Jonathan Krause, Yilun Wang, Duyun Chen, Jia Deng, Li Fei Fei | - 	| 	|
 
 <br>
+
+### Articles and other resource
+ * [Improved GAN (Semi-supervised GAN)](https://github.com/Sleepychord/ImprovedGAN-pytorch)
+<br>
 <br>
 
 ## Deep Reinforcement Learning
