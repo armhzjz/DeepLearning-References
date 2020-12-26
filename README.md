@@ -120,6 +120,8 @@ This is just a place to save the deep learning references that I believe are val
 
 ### Articles and other resource
  * [Improved GAN (Semi-supervised GAN)](https://github.com/Sleepychord/ImprovedGAN-pytorch)
+ * [Semi-Supervised Learning](https://www.youtube.com/watch?v=_LRpHPxZaX0&feature=emb_logo)
+ 
 <br>
 <br>
 
