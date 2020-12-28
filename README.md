@@ -52,6 +52,7 @@ This is just a place to save the deep learning references that I believe are val
 * [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://cs.nyu.edu/~deigen/depth/)
 * [Capsule Networks](https://cezannec.github.io/Capsule_Networks/)
 * [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
+* [Convolutional Neural Networks (CNNs / ConvNets)](https://cs231n.github.io/convolutional-networks/#conv)
 
 <br>
 <br>
