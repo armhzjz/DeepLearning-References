@@ -121,6 +121,8 @@ This is just a place to save the deep learning references that I believe are val
 | [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf) | Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros | - 	| :point_left:	|
 | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf) | Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro | - 	| 	|
 | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf) | Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros | - 	| 	|
+| [Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data](https://arxiv.org/abs/1802.10151) | Amjad Almahairi, Sai Rajeswar, Alessandro Sordoni, Philip Bachman, Aaron Courville | - 	| :point_left:	|
+| [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020) | Yunjey Choi, Minje Choi, Munyoung Kim, Jung-Woo Ha, Sunghun Kim, Jaegul Choo | - 	| :point_left:	|
 
 <br>
 
@@ -130,6 +132,7 @@ This is just a place to save the deep learning references that I believe are val
  * [Attacking Machine Learning with Adversarial Examples](https://openai.com/blog/adversarial-example-research/)
  * [iGAN: Interactive Image Generation via Generative Adversarial Networks](https://github.com/junyanz/iGAN/blob/master/README.md)
  * [Image to Image Demo](https://affinelayer.com/pixsrv/)
+ * [StarGAN - Official PyTorch Implementation](https://github.com/yunjey/StarGAN) :point_left:
  
 <br>
 <br>
