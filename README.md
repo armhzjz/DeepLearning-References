@@ -42,6 +42,8 @@ This is just a place to save the deep learning references that I believe are val
 | [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792) 	| Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson 	| - 	| :point_left:	|
 | [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) 	| Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun 	| - 	| :point_left:	|
 | [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf) 	| Shervin Minaee, Yuri Boykov, Fatih Porikli, Antonio Plaza, Nasser Kehtarnavaz, Demetri Terzopoulos 	| - 	| 	|
+| [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) 	| Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun 	| - 	| :point_left:	|
+
 
 <br>
 
