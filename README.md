@@ -139,6 +139,7 @@ This is just a place to save the deep learning references that I believe are val
  * [iGAN: Interactive Image Generation via Generative Adversarial Networks](https://github.com/junyanz/iGAN/blob/master/README.md)
  * [Image to Image Demo](https://affinelayer.com/pixsrv/)
  * [StarGAN - Official PyTorch Implementation](https://github.com/yunjey/StarGAN) :point_left:
+ * [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/)
  
 <br>
 <br>
