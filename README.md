@@ -54,6 +54,7 @@ This is just a place to save the deep learning references that I believe are val
 * [Capsule Networks](https://cezannec.github.io/Capsule_Networks/)
 * [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
 * [Convolutional Neural Networks (CNNs / ConvNets)](https://cs231n.github.io/convolutional-networks/#conv)
+* [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035) :point_left:
 
 <br>
 <br>
