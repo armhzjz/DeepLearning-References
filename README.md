@@ -20,7 +20,6 @@ This is just a place to save the deep learning references that I believe are val
 * [Tradeoff batch size vs. number of iterations to train a neural network](https://stats.stackexchange.com/questions/164876/tradeoff-batch-size-vs-number-of-iterations-to-train-a-neural-network)
 * [Deep Learning Book](http://www.deeplearningbook.org/) :point_left:
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) :point_left:
-* [Optimizers Explained - Adam, Momentum and Stochastic Gradient Descent](https://mlfromscratch.com/optimizers-explained/#/) :point_left:
 * [Tuning the learning rate in Gradient Descent](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/) :point_left:
 * [Softmax Regression](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/) :point_left:
 * [Visualizing MNIST: An Exploration of Dimensionality Reduction](http://colah.github.io/posts/2014-10-Visualizing-MNIST/) :point_left:
@@ -153,6 +152,24 @@ This is just a place to save the deep learning references that I believe are val
 * [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)
 * [SnakeAI](https://github.com/greerviau/SnakeAI)
 * [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+
+<br>
+<br>
+
+## Optimizers
+<br>
+
+### Papers
+
+| Paper 	| Authors 	| Application 	| comment 	|
+|:-:	|:-:	|:-:	|-	|
+| [SGDR: STOCHASTIC GRADIENT DESCENT WITH WARM RESTARTS](https://arxiv.org/pdf/1608.03983.pdf) | Ilya Loshchilov & Frank Hutter | - 	| :point_left: 	|
+
+<br>
+
+### Articles and other resource
+* [Optimizers Explained - Adam, Momentum and Stochastic Gradient Descent](https://mlfromscratch.com/optimizers-explained/#/) :point_left:
+* [Tuning the learning rate in Gradient Descent](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/) :point_left:
 
 <br>
 <br>
