@@ -79,6 +79,7 @@ This is a place to save the deep learning references that I believe are valueabl
 | [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) 	| Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio 	| -	|  	|
 | [Learning Phrase Representations using RNN Encoder–Decoderfor Statistical Machine Translation](https://arxiv.org/pdf/1406.1078v3.pdf) 	| Kyunghyun Cho, Bart van Merri ̈enboe, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio 	| -	|  	|
 | [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025) 	| Minh-Thang Luong, Hieu Pham, Christopher D. Manning 	| -	|  	|
+| [Training Tips for the Transformer Model](https://ufal.mff.cuni.cz/pbml/110/art-popel-bojar.pdf) 	| Martin Popel, Ondřej Bojar 	| -	|  	|
 
 <br>
 
