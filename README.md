@@ -150,6 +150,14 @@ This is a place to save the deep learning references that I believe are valueabl
 ## Deep Reinforcement Learning
 <br>
 
+### Papers
+
+| Paper 	| Authors 	| Application 	| comment 	|
+|:-:	|:-:	|:-:	|-	|
+| [Feedback  Control  For  Cassie  With  Deep  Reinforcement  Learning](https://arxiv.org/pdf/1803.05580.pdf) | Zhaoming Xie, Glen Berseth, Patrick Clary, Jonathan Hurst, Michiel van de Panne | - 	| :point_left: 	|
+
+<br>
+
 ### Articles and other resource
 * [Deep Traffic](https://selfdrivingcars.mit.edu/deeptraffic/)
 * [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)
