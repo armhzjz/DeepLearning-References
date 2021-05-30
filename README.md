@@ -131,6 +131,7 @@ This is a place to save the deep learning references that I believe are valueabl
 | [Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076) | Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang, Stephen Paul Smolley | - 	| :point_left:	|
 | [Sampling Generative Networks](https://arxiv.org/pdf/1609.04468.pdf) | Tom White | - 	| :point_left: :point_left:	|
 | [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158) | Wenzhe Shi, Jose Caballero, Ferenc Huszár, Johannes Totz, Andrew P. Aitken, Rob Bishop, Daniel Rueckert, Zehan Wang | - 	| :point_left:	|
+| [Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/pdf/1607.08022.pdf) | Dimitry Ulyanov, Andrea Vedaldi, Victor Lempitsky | Replacement of BatchNorms 	| 	|
 
 <br>
 
