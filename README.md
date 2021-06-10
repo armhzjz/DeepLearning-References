@@ -44,6 +44,7 @@ This is a place to save the deep learning references that I believe are valueabl
 | [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) 	| Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun 	| - 	| :point_left:	|
 | [The Importance of Skip Connections in Biomedical Image Segmentation](https://arxiv.org/pdf/1608.04117.pdf) 	| Michal Drozdzal, Eugene Vorontsov, Gabriel Chartrand, Samuel Kadoury, Chris Pal 	| - 	| :point_left:	|
 | [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf) 	| Evan Shelhamer, Jonathan Long, Trevor Darrell 	| - 	| :point_left:	|
+| [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf) 	| Olaf Ronneberger, Philipp Fischer, and Thomas Brox 	| - 	| :point_left::point_left:	|
 
 
 <br>
