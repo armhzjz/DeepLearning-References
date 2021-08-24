@@ -204,3 +204,4 @@ This is a place to save the deep learning references that I believe are valueabl
 * [Better Deep Learning - Train Faster, Reduce Overfitting, and Make Better Predictions](https://machinelearningmastery.com/better-deep-learning/#packages)
 * [How to attack a machine learning model?](https://www.kaggle.com/allunia/how-to-attack-a-machine-learning-model)
 * [Reading game frames in Python with OpenCV - Python Plays GTA V](https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/)
+* [CLIP: Connecting Text and Images](https://openai.com/blog/clip/) 👈
