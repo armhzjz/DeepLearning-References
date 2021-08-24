@@ -134,6 +134,8 @@ This is a place to save the deep learning references that I believe are valueabl
 | [Sampling Generative Networks](https://arxiv.org/pdf/1609.04468.pdf) | Tom White | - 	| :point_left: :point_left:	|
 | [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158) | Wenzhe Shi, Jose Caballero, Ferenc Huszár, Johannes Totz, Andrew P. Aitken, Rob Bishop, Daniel Rueckert, Zehan Wang | - 	| :point_left:	|
 | [Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/pdf/1607.08022.pdf) | Dimitry Ulyanov, Andrea Vedaldi, Victor Lempitsky | Replacement of BatchNorms 	| 	|
+| [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841) | Patrick Esser, Robin Rombach, Björn Ommer | - 	| 	|
+
 
 <br>
 
@@ -146,6 +148,7 @@ This is a place to save the deep learning references that I believe are valueabl
  * [StarGAN - Official PyTorch Implementation](https://github.com/yunjey/StarGAN) :point_left:
  * [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/)
  * [ganhacks](https://github.com/soumith/ganhacks) :point_left::point_left:
+ * [Taming Transformers for High-Resolution Image Synthesis](https://compvis.github.io/taming-transformers/)
  
 <br>
 <br>
