@@ -44,7 +44,10 @@ This is a place to save the deep learning references that I believe are valueabl
 | [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) 	| Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun 	| - 	| :point_left:	|
 | [The Importance of Skip Connections in Biomedical Image Segmentation](https://arxiv.org/pdf/1608.04117.pdf) 	| Michal Drozdzal, Eugene Vorontsov, Gabriel Chartrand, Samuel Kadoury, Chris Pal 	| - 	| :point_left:	|
 | [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf) 	| Evan Shelhamer, Jonathan Long, Trevor Darrell 	| - 	| :point_left:	|
-| [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf) 	| Olaf Ronneberger, Philipp Fischer, and Thomas Brox 	| - 	| :point_left::point_left:	|
+| [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf) 	| Olaf Ronneberger, Philipp Fischer, and Thomas Brox 	| - 	| :point_left::point_left:	Segmantic Segmentation |
+| [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/pdf/1606.00915.pdf) 	| Liang-Chieh Chen, George Papandreou, Iasonas Kokkinos, Kevin Murphy, and Alan L. Yuille	| - 	| :point_left:	Segmantic Segmentation [Impl.](https://github.com/fregu856/deeplabv3)|
+| [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/pdf/1907.05740.pdf) 	| Towaki Takikawa, David Acuna, Varun Jampani, Sanja Fidler	| - 	| :point_left:	Segmantic Segmentation [Impl.](https://github.com/nv-tlabs/gscnn) |
+| [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://arxiv.org/pdf/1903.11816.pdf) 	| Huikai Wu, Junge Zhang, Kaiqi Huang, Kongming Liang, Yizhou Yu	| - 	| :point_left:	Segmantic Segmentation [Impl.](https://github.com/wuhuikai/FastFCN) |
 
 
 <br>
