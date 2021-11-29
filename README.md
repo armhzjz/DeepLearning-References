@@ -3,7 +3,7 @@ This is a place to save the deep learning references that I believe are valueabl
 <br>
 <br>
 
-## Neral Networks - the basics
+## Neural Networks - the basics
 <br>
 
 ### Papers
