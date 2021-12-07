@@ -48,6 +48,8 @@ This is a place to save the deep learning references that I believe are valueabl
 | [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/pdf/1606.00915.pdf) 	| Liang-Chieh Chen, George Papandreou, Iasonas Kokkinos, Kevin Murphy, and Alan L. Yuille	| - 	| :point_left:	Segmantic Segmentation [Impl.](https://github.com/fregu856/deeplabv3)|
 | [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/pdf/1907.05740.pdf) 	| Towaki Takikawa, David Acuna, Varun Jampani, Sanja Fidler	| - 	| :point_left:	Segmantic Segmentation [Impl.](https://github.com/nv-tlabs/gscnn) |
 | [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://arxiv.org/pdf/1903.11816.pdf) 	| Huikai Wu, Junge Zhang, Kaiqi Huang, Kongming Liang, Yizhou Yu	| - 	| :point_left:	Segmantic Segmentation [Impl.](https://github.com/wuhuikai/FastFCN) |
+| [On Power Jaccard Losses for Semantic Segmentation](https://www.scitepress.org/Papers/2021/103040/103040.pdf) 	| David Duque-Arias, Santiago Velasco-Forero, Jean-Emmanuel Deschaud, Francois Goulette, Andres Serna, Etienne Decenciere and Beatriz Marcotegui 	| - 	| :point_left:	Loss functions for segmentation tasks |
+
 
 
 <br>
