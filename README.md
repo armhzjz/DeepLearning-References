@@ -168,6 +168,7 @@ This is a place to save the deep learning references that I believe are valueabl
 | Paper 	| Authors 	| Application 	| comment 	|
 |:-:	|:-:	|:-:	|-	|
 | [Feedback  Control  For  Cassie  With  Deep  Reinforcement  Learning](https://arxiv.org/pdf/1803.05580.pdf) | Zhaoming Xie, Glen Berseth, Patrick Clary, Jonathan Hurst, Michiel van de Panne | - 	| :point_left: 	|
+| [Convergence of Optimistic and Incremental Q-Learning](https://proceedings.neurips.cc/paper/2001/file/6f2688a5fce7d48c8d19762b88c32c3b-Paper.pdf) | Eyal Even-Dar, Yishay Mansour | Q-Table initialization 	| :point_left: 	|
 
 <br>
 
