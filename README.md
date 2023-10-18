@@ -1,5 +1,10 @@
 # DeepLearning References
-This is a place to save the deep learning references that I believe are valueable and helpful
+This is a place to save the deep learning references that I believe are valueable and helpful.
+<br>
+<br>
+
+## First things first ...
+[How to read and understand a scientific paper: a guide for non-scientists](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/)
 <br>
 <br>
 
