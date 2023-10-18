@@ -169,6 +169,8 @@ This is a place to save the deep learning references that I believe are valueabl
 |:-:	|:-:	|:-:	|-	|
 | [Feedback  Control  For  Cassie  With  Deep  Reinforcement  Learning](https://arxiv.org/pdf/1803.05580.pdf) | Zhaoming Xie, Glen Berseth, Patrick Clary, Jonathan Hurst, Michiel van de Panne | - 	| :point_left: 	|
 | [Convergence of Optimistic and Incremental Q-Learning](https://proceedings.neurips.cc/paper/2001/file/6f2688a5fce7d48c8d19762b88c32c3b-Paper.pdf) | Eyal Even-Dar, Yishay Mansour | Q-Table initialization 	| :point_left: 	|
+| [Issues in Using Function Approximation for Reinforcement Learning](https://www.ri.cmu.edu/pub_files/pub1/thrun_sebastian_1993_1/thrun_sebastian_1993_1.pdf) | Sebastian Thrun, Anton Schwartz | - 	| :point_left: 	|
+| [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461) | Hado van Hasselt, Arthur Guez, David Silver | - 	| :point_left: 	|
 
 <br>
 
@@ -177,6 +179,7 @@ This is a place to save the deep learning references that I believe are valueabl
 * [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)
 * [SnakeAI](https://github.com/greerviau/SnakeAI)
 * [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+* [World scale inverse reinforcement learning in Google Maps](https://blog.research.google/2023/09/world-scale-inverse-reinforcement.html)
 
 <br>
 <br>
