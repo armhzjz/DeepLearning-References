@@ -172,6 +172,7 @@ This is a place to save the deep learning references that I believe are valueabl
 | [Issues in Using Function Approximation for Reinforcement Learning](https://www.ri.cmu.edu/pub_files/pub1/thrun_sebastian_1993_1/thrun_sebastian_1993_1.pdf) | Sebastian Thrun, Anton Schwartz | - 	| :point_left: 	|
 | [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461) | Hado van Hasselt, Arthur Guez, David Silver | - 	| :point_left: 	|
 | [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952) | Tom Schaul, John Quan, Ioannis Antonoglou, David Silver | - 	| :point_left: 	|
+| [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581) | Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas | - 	| :point_left: 	|
 
 <br>
 
